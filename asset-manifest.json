@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/digimemory/static/css/main.2f09f209.css",
+    "main.js": "/digimemory/static/js/main.e4107611.js",
+    "static/media/phoenixmon.jpg": "/digimemory/static/media/phoenixmon.6ca6784800ce90487732.jpg",
+    "static/media/garudamon.jpg": "/digimemory/static/media/garudamon.8f0512a4e7233f686110.jpg",
+    "static/media/kabuterimon.jpg": "/digimemory/static/media/kabuterimon.3fdcf6dcb47e0ac50592.jpg",
+    "static/media/togemon.jpg": "/digimemory/static/media/togemon.85a99fa24c2b74fa7d7d.jpg",
+    "static/media/vikemon.jpg": "/digimemory/static/media/vikemon.9ebe187f81c4db004119.jpg",
+    "static/media/gabumon.jpg": "/digimemory/static/media/gabumon.cc0f3b916956d96a38f6.jpg",
+    "static/media/wargreymon.jpg": "/digimemory/static/media/wargreymon.56a87f18ccfd7b4ca8a8.jpg",
+    "static/media/ikkakumon.jpg": "/digimemory/static/media/ikkakumon.404e8f23ac806bb848fe.jpg",
+    "static/media/metalgreymon.jpg": "/digimemory/static/media/metalgreymon.596f9cf40665b09866e9.jpg",
+    "static/media/tentomon.jpg": "/digimemory/static/media/tentomon.732a8b05d80c14976718.jpg",
+    "static/media/lillymon.jpg": "/digimemory/static/media/lillymon.af215172ea276d484eb9.jpg",
+    "static/media/metalgarurumon.jpg": "/digimemory/static/media/metalgarurumon.3826e8f0ff7d78e4b299.jpg",
+    "static/media/biyomon.jpg": "/digimemory/static/media/biyomon.57ba302363494c113184.jpg",
+    "static/media/gomamon.jpg": "/digimemory/static/media/gomamon.4f3ea00f33539e8e77d2.jpg",
+    "static/media/rosemon.jpg": "/digimemory/static/media/rosemon.a4d7715927036657ee90.jpg",
+    "static/media/herculeskabuterimon.jpg": "/digimemory/static/media/herculeskabuterimon.08623382e687ea243896.jpg",
+    "static/media/palmon.jpg": "/digimemory/static/media/palmon.b88f987dcb6bdaa46e89.jpg",
+    "static/media/agumon.jpg": "/digimemory/static/media/agumon.7a74e08c3151197d8506.jpg",
+    "static/media/weregarurumon.jpg": "/digimemory/static/media/weregarurumon.4208eed6cce3258903a1.jpg",
+    "static/media/garurumon.jpg": "/digimemory/static/media/garurumon.c923a85387095c925e57.jpg",
+    "static/media/zudomon.jpg": "/digimemory/static/media/zudomon.74540ba50a6a3d79489e.jpg",
+    "static/media/greymon.jpg": "/digimemory/static/media/greymon.b771ffb54313172f2578.jpg",
+    "static/media/birdramon.jpg": "/digimemory/static/media/birdramon.02a6cffa1d7ce46765db.jpg",
+    "static/media/megakabuterimon.jpg": "/digimemory/static/media/megakabuterimon.3e152f63dd9e556d2757.jpg",
+    "index.html": "/digimemory/index.html",
+    "main.2f09f209.css.map": "/digimemory/static/css/main.2f09f209.css.map",
+    "main.e4107611.js.map": "/digimemory/static/js/main.e4107611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f09f209.css",
+    "static/js/main.e4107611.js"
+  ]
+}

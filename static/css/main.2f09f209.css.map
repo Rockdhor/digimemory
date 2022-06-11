@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2f09f209.css","mappings":"AAAA,YACI,+BAAmC,CACnC,cACJ","sources":["styles/app.css"],"sourcesContent":[".card:hover {\n    background-color: rgba(0, 0, 0, .3);\n    cursor: pointer;\n}"],"names":[],"sourceRoot":""}
